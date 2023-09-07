@@ -21,6 +21,7 @@ Mind that the game is working with its features but still incomplete!
 | Action | Key |
 |---|---|
 | Movement | W A S D |
+| Attack | Space |
 | Cast Spell | Left CTRL |
 | Switch Weapon | Q |
 | Switch Magic | E |
