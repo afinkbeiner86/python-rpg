@@ -30,7 +30,7 @@ Mind that the game is working with its features but still incomplete!
 | Upgrade | Space |
 
 ## Download and play
-If you are on Windows hop to the [Release section](https://github.com/jimsemara/python-rpg/releases) and download the latest release.
+If you are on Windows hop to the [Release section](https://github.com/finkbyter/python-rpg/releases) and download the latest release.
 
 For other platforms you have to build from source.  
 
